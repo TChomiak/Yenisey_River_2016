@@ -4,5 +4,5 @@ This repository contains jupyter notebooks related to a project I managed involv
 Tasks Include:
 - Data Cleaning
 - Exploratory Data Analysis
-- Gas Flux Calculations
-- Random Forest Modeling for Feature Importance
+- CO2 Gas Flux Calculations
+- Random Forest Modeling for Feature Importance and Interpolations
